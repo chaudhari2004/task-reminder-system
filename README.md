@@ -9,6 +9,7 @@ A lightweight and user-friendly web application to help users stay organized and
 <br/>
 
 <!-- 🔻 Banner image (replace this with your own image in the /assets folder) -->
+https://github.com/chaudhari2004/task-reminder-system/blob/main/banner.png
 
 ---
 
